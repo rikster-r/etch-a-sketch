@@ -1,7 +1,7 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 18px;
-    background-color: #F6F6F5;
+    background-color: #F6F6F6;
     margin: 0;
 }
 
@@ -27,7 +27,8 @@ h1 {
 }
 
 .sketchboard {
-    height: 80vh;
-    width: 80vh;
+    display:grid;
+    height: 500px;
+    width: 500px;
     border: 2px solid #000;
 }
